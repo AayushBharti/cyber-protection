@@ -29,16 +29,20 @@ const Login = ({ setUserState }) => {
       error.email = "Email is required";
     } 
     else if(values.email!=="IndianPolice"){
-      error.email="Enter Valid id";
+      error.email="Incorrect ID";
     }
     else if(values.password!=="123456"){
-      error.email="Enter Valid Password";
+      error.email="Incorrect Password";
     }
     // else if (!regex.test(values.email)) {
     //   error.email = "Please enter a valid email address";
     // }
-    if (!values.password) {
+    
+    else if (!values.password) {
       error.password = "Password is required";
+    }
+    else{
+    navigate("/homepage");
     }
     return error;
   };
@@ -48,7 +52,7 @@ const Login = ({ setUserState }) => {
     setFormErrors(validateForm(user));
     setIsSubmit(true);
 
-    navigate("/homepage");
+    
   
     // if (!formErrors) {
 
