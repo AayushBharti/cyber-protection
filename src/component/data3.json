@@ -1,0 +1,520 @@
+{
+    "items": [
+      {
+        "panId": "ABCDE5678G",
+        "accounts": [
+          {
+            "accountId": "ACC4567",
+            "accountDetails": {
+              "bankName": "chirag Bank",
+              "accountNumber": "1234567890",
+              "accountType": "Savings"
+            },
+            "currentBalance": 3000,
+            "transactions": [
+              {
+                "transactionId": "TXN789012",
+                "bankName": "chirag Bank",
+                "dateTime": "2024-03-23T10:20:00",
+                "amount": 5000,
+                "destinationAccount": "2342342342",
+                "destinationAccountBankName": "alpha bank"
+              },
+              {
+                "transactionId": "TXN345678",
+                "bankName": "chirag Bank",
+                "dateTime": "2024-04-11T11:46:00",
+                "amount": -2000,
+                "destinationAccount": "139876df1341",
+                "destinationAccountBankName": "SIGMA bank"
+              }
+            ]
+          },
+          {
+            "accountId": "ACC4568",
+            "accountDetails": {
+              "bankName": "DEEPAK Bank",
+              "accountNumber": "1236543210",
+              "accountType": "Saving"
+            },
+            "currentBalance": 5000,
+            "transactions": [
+              {
+                "transactionId": "TXN123450",
+                "bankName": "DEEPAK Bank",
+                "dateTime": "2025-03-20T12:15:00",
+                "amount": 10000,
+                "destinationAccount": "2376598742",
+                "destinationAccountBankName": "LOL bank"
+              },
+              {
+                "transactionId": "TXN987213",
+                "bankName": "DEEPAK Bank",
+                "dateTime": "2026-03-21T14:40:00",
+                "amount": -5000,
+                "destinationAccount": "4342462342",
+                "destinationAccountBankName": "BKLOL bank"
+              }
+            ]
+          },
+          {
+            "accountId": "ACC9765",
+            "accountDetails": {
+              "bankName": "TUF Bank",
+              "accountNumber": "2468098579",
+              "accountType": "CURRENT"
+            },
+            "currentBalance": 5000,
+            "transactions": [
+              {
+                "transactionId": "TXN135791",
+                "bankName": "TUF Bank",
+                "dateTime": "2024-03-12T09:00:00",
+                "amount": 8000,
+                "destinationAccount": "3254342342",
+                "destinationAccountBankName": "ply bank"
+              },
+              {
+                "transactionId": "TXN246802",
+                "bankName": "TUF Bank",
+                "dateTime": "2024-03-13T15:30:00",
+                "amount": -3000,
+                "destinationAccount": "56785347385",
+                "destinationAccountBankName": "ver bank"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "panId": "GHIJK1234F",
+        "accounts": [
+          {
+            "accountId": "ACC123",
+            "accountDetails": {
+              "bankName": "DUCK Bank",
+              "accountNumber": "12340886890",
+              "accountType": "Current"
+            },
+            "currentBalance": 3000,
+            "transactions": [
+              {
+                "transactionId": "TXN789456",
+                "bankName": "DUCL Bank",
+                "dateTime": "2044-03-02T10:30:00",
+                "amount": 5000,
+                "destinationAccount": "2342342342",
+                "destinationAccountBankName": "alpha bank"
+              },
+              {
+                "transactionId": "TXN923987",
+                "bankName": "ABC Bank",
+                "dateTime": "2044-03-10T11:45:00",
+                "amount": -2000,
+                "destinationAccount": "23423sdf2342",
+                "destinationAccountBankName": "gama bank"
+              }
+            ]
+          },
+          {
+            "accountId": "ACC678",
+            "accountDetails": {
+              "bankName": "Cho Bank",
+              "accountNumber": "9876545678",
+              "accountType": "Saving"
+            },
+            "currentBalance": 70000,
+            "transactions": [
+              {
+                "transactionId": "TXN347654",
+                "bankName": "CHO Bank",
+                "dateTime": "2024-03-10T12:15:00",
+                "amount": 10000,
+                "destinationAccount": "2342324342",
+                "destinationAccountBankName": "MGrt bank"
+              },
+              {
+                "transactionId": "TXN987655",
+                "bankName": "CHO Bank",
+                "dateTime": "2024-03-11T14:20:00",
+                "amount": -5000,
+                "destinationAccount": "4342462342",
+                "destinationAccountBankName": "LAFDA bank"
+              }
+            ]
+          },
+          {
+            "accountId": "ACC789",
+            "accountDetails": {
+              "bankName": "CHO Bank",
+              "accountNumber": "2468013579",
+              "accountType": "Current"
+            },
+            "currentBalance": 5000,
+            "transactions": [
+              {
+                "transactionId": "TXN135791",
+                "bankName": "CHO Bank",
+                "dateTime": "2024-03-12T09:00:00",
+                "amount": 8000,
+                "destinationAccount": "3815642342",
+                "destinationAccountBankName": "FRY bank"
+              },
+              {
+                "transactionId": "TXN246802",
+                "bankName": "CHO Bank",
+                "dateTime": "2025-03-13T15:30:00",
+                "amount": -3000,
+                "destinationAccount": "567324236346342",
+                "destinationAccountBankName": "CRY bank"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "panId": "LLBDE1234H",
+        "accounts": [
+          {
+            "accountId": "ACC032",
+            "accountDetails": {
+              "bankName": "SAMAPTI Bank",
+              "accountNumber": "123976890",
+              "accountType": "Current"
+            },
+            "currentBalance": 3000,
+            "transactions": [
+              {
+                "transactionId": "TXN123456",
+                "bankName": "PINK Bank",
+                "dateTime": "2024-09-09T10:30:00",
+                "amount": 5000,
+                "destinationAccount": "2342342342",
+                "destinationAccountBankName": "alpha bank"
+              },
+              {
+                "transactionId": "TXN123457",
+                "bankName": "PINK Bank",
+                "dateTime": "2024-09-10T11:45:00",
+                "amount": -2000,
+                "destinationAccount": "23423sdf2342",
+                "destinationAccountBankName": "SIGMA bank"
+              }
+            ]
+          },
+          {
+            "accountId": "ACC456",
+            "accountDetails": {
+              "bankName": "LAFDA Bank",
+              "accountNumber": "9876543210",
+              "accountType": "Current"
+            },
+            "currentBalance": 5000,
+            "transactions": [
+              {
+                "transactionId": "TXN987654",
+                "bankName": "LAFDA Bank",
+                "dateTime": "2024-03-10T12:15:00",
+                "amount": 10000,
+                "destinationAccount": "2342324342",
+                "destinationAccountBankName": "SENDHA bank"
+              },
+              {
+                "transactionId": "TXN987655",
+                "bankName": "LAFDA Bank",
+                "dateTime": "2024-03-30T14:20:00",
+                "amount": -5000,
+                "destinationAccount": "4342462342",
+                "destinationAccountBankName": "NAMAK bank"
+              }
+            ]
+          },
+          {
+            "accountId": "ACC789",
+            "accountDetails": {
+              "bankName": "BYTE Bank",
+              "accountNumber": "2819013579",
+              "accountType": "Savings"
+            },
+            "currentBalance": 5000,
+            "transactions": [
+              {
+                "transactionId": "TXN135791",
+                "bankName": "BYTE Bank",
+                "dateTime": "2027-03-17T09:00:00",
+                "amount": 8000,
+                "destinationAccount": "321222342",
+                "destinationAccountBankName": "LOL bank"
+              },
+              {
+                "transactionId": "TXN246802",
+                "bankName": "BYTE Bank",
+                "dateTime": "2027-03-13T15:30:00",
+                "amount": -3000,
+                "destinationAccount": "5672343242342",
+                "destinationAccountBankName": "SAVESH bank"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "panId": "ABCDE1234F",
+        "accounts": [
+          {
+            "accountId": "A456789CC123",
+            "accountDetails": {
+              "bankName": "INDIAN Bank",
+              "accountNumber": "1234000567890",
+              "accountType": "Savings"
+            },
+            "currentBalance": 32000,
+            "transactions": [
+              {
+                "transactionId": "POTXN123456",
+                "bankName": "INDIAN Bank",
+                "dateTime": "2022-03-09T10:35:09",
+                "amount": 50200,
+                "destinationAccount": "2342000342342",
+                "destinationAccountBankName": "alpha bank"
+              },
+              {
+                "transactionId": "TXN123457",
+                "bankName": "ABC Bank",
+                "dateTime": "2022-12-10T11:45:00",
+                "amount": -22000,
+                "destinationAccount": "23423002342",
+                "destinationAccountBankName": "ICICI bank"
+              }
+            ]
+          },
+          {
+            "accountId": "AWERCC456",
+            "accountDetails": {
+              "bankName": "PNB Bank",
+              "accountNumber": "9876000543210",
+              "accountType": "Current"
+            },
+            "currentBalance": 5000,
+            "transactions": [
+              {
+                "transactionId": "TXN987654",
+                "bankName": "YES Bank",
+                "dateTime": "2024-03-10T12:15:00",
+                "amount": 10000,
+                "destinationAccount": "234232324342",
+                "destinationAccountBankName": "ICICI bank"
+              },
+              {
+                "transactionId": "TXN987655",
+                "bankName": "ICICI Bank",
+                "dateTime": "2024-03-11T14:20:00",
+                "amount": -5000,
+                "destinationAccount": "4342462342",
+                "destinationAccountBankName": "dfg bank"
+              }
+            ]
+          },
+          {
+            "accountId": "ACC765789",
+            "accountDetails": {
+              "bankName": "PNB Bank",
+              "accountNumber": "2460008013579",
+              "accountType": "Savings"
+            },
+            "currentBalance": 5000,
+            "transactions": [
+              {
+                "transactionId": "TXN135791",
+                "bankName": "YES Bank",
+                "dateTime": "2024-03-12T09:00:00",
+                "amount": 8000,
+                "destinationAccount": "3254342342",
+                "destinationAccountBankName": "rty bank"
+              },
+              {
+                "transactionId": "TXN246802",
+                "bankName": "DEF Bank",
+                "dateTime": "2024-03-13T15:30:00",
+                "amount": -3000,
+                "destinationAccount": "56785342342",
+                "destinationAccountBankName": "yui bank"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "panId": "ASDF1234F",
+        "accounts": [
+          {
+            "accountId": "ACC1EF23",
+            "accountDetails": {
+              "bankName": "ICICI Bank",
+              "accountNumber": "58346505634986",
+              "accountType": "Current"
+            },
+            "currentBalance": 32000,
+            "transactions": [
+              {
+                "transactionId": "TXWWN1237756",
+                "bankName": "ABC Bank",
+                "dateTime": "2024-03-09T10:30:00",
+                "amount": 50000,
+                "destinationAccount": "2342345542342",
+                "destinationAccountBankName": "YES bank"
+              },
+              {
+                "transactionId": "XN12EFE344343257",
+                "bankName": "INDIAN Bank",
+                "dateTime": "2024-11-10T11:45:00",
+                "amount": -18000,
+                "destinationAccount": "2237243703472307",
+                "destinationAccountBankName": "ICICI bank"
+              }
+            ]
+          },
+          {
+            "accountId": "ACC43040956",
+            "accountDetails": {
+              "bankName": "IDFC Bank",
+              "accountNumber": "98783086543210",
+              "accountType": "Savings"
+            },
+            "currentBalance": 0,
+            "transactions": [
+              {
+                "transactionId": "TXN987654",
+                "bankName": "XYZ Bank",
+                "dateTime": "2024-03-10T12:15:00",
+                "amount": 100000,
+                "destinationAccount": "234323232439942",
+                "destinationAccountBankName": "ert bank"
+              },
+              {
+                "transactionId": "TXN94208787655",
+                "bankName": "SARVESH Bank",
+                "dateTime": "2023-03-07T14:20:00",
+                "amount": 100000,
+                "destinationAccount": "434209723462342",
+                "destinationAccountBankName": "YES bank"
+              }
+            ]
+          },
+          {
+            "accountId": "ACC72300989",
+            "accountDetails": {
+              "bankName": "ICICI Bank",
+              "accountNumber": "24642338013579",
+              "accountType": "Savings"
+            },
+            "currentBalance": 79345,
+            "transactions": [
+              {
+                "transactionId": "TXN135791",
+                "bankName": "DEF Bank",
+                "dateTime": "2024-05-12T09:00:00",
+                "amount": 82345,
+                "destinationAccount": "3254342342",
+                "destinationAccountBankName": "rty bank"
+              },
+              {
+                "transactionId": "TXN54GEF246802",
+                "bankName": "DEF Bank",
+                "dateTime": "2024-08-16T15:30:00",
+                "amount": -3000,
+                "destinationAccount": "56785342342",
+                "destinationAccountBankName": "PNB bank"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "panId": "LKJDE17234F",
+        "accounts": [
+          {
+            "accountId": "ACCFEW123",
+            "accountDetails": {
+              "bankName": "PNB Bank",
+              "accountNumber": "487423986267890",
+              "accountType": "Savings"
+            },
+            "currentBalance": 3000,
+            "transactions": [
+              {
+                "transactionId": "TVDSXN123456",
+                "bankName": "ABC Bank",
+                "dateTime": "2024-03-19T10:30:00",
+                "amount": 5000,
+                "destinationAccount": "2342342342",
+                "destinationAccountBankName": "alpha bank"
+              },
+              {
+                "transactionId": "TXN123457",
+                "bankName": "ABC Bank",
+                "dateTime": "2024-03-10T11:45:00",
+                "amount": -2000,
+                "destinationAccount": "2342348208232342",
+                "destinationAccountBankName": "YOUR bank"
+              }
+            ]
+          },
+          {
+            "accountId": "ACC45FLKN336",
+            "accountDetails": {
+              "bankName": "YES Bank",
+              "accountNumber": "4083000033210",
+              "accountType": "Current"
+            },
+            "currentBalance": 1032192,
+            "transactions": [
+              {
+                "transactionId": "TXN987654",
+                "bankName": "XYZ Bank",
+                "dateTime": "2024-03-10T12:15:00",
+                "amount": 1048576,
+                "destinationAccount": "2342324342",
+                "destinationAccountBankName": "ert bank"
+              },
+              {
+                "transactionId": "TXN987655",
+                "bankName": "XYZ Bank",
+                "dateTime": "2024-03-11T14:20:00",
+                "amount": -16384,
+                "destinationAccount": "4342462342",
+                "destinationAccountBankName": "dfg bank"
+              }
+            ]
+          },
+          {
+            "accountId": "ACC7434332289",
+            "accountDetails": {
+              "bankName": "ICICI Bank",
+              "accountNumber": "2463000013579",
+              "accountType": "Current"
+            },
+            "currentBalance": 2732004,
+            "transactions": [
+              {
+                "transactionId": "TXN135791",
+                "bankName": "YES Bank",
+                "dateTime": "2024-03-12T09:00:00",
+                "amount": 2812004,
+                "destinationAccount": "325434900082342",
+                "destinationAccountBankName": "PNB bank"
+              },
+              {
+                "transactionId": "TXN246802",
+                "bankName": "PNB Bank",
+                "dateTime": "2021-03-13T15:30:00",
+                "amount":80000 ,
+                "destinationAccount": "56789875342342",
+                "destinationAccountBankName": "PNB bank"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

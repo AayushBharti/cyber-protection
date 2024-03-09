@@ -1,0 +1,225 @@
+{
+  "items" : [
+    {
+      "panId": "ABCDE1234F",
+      "accountDetails": {
+        "bankName": "ABC Bank",
+        "accountNumber": "1234567890",
+        "accountType": "Savings"
+      },
+      "transactions": [
+        {
+          "transactionId": "TXN123456",
+          "bankName": "ABC Bank",
+          "dateTime": "2024-03-09T10:30:00",
+          "amount": 5000
+        },
+        {
+          "transactionId": "TXN123457",
+          "bankName": "ABC Bank",
+          "dateTime": "2024-03-10T11:45:00",
+          "amount": -2000
+        }
+      ]
+    },
+    {
+      "panId": "FGHIJ5678K",
+      "accountDetails": {
+        "bankName": "XYZ Bank",
+        "accountNumber": "9876543210",
+        "accountType": "Current"
+      },
+      "transactions": [
+        {
+          "transactionId": "TXN987654",
+          "bankName": "XYZ Bank",
+          "dateTime": "2024-03-10T12:15:00",
+          "amount": 10000
+        },
+        {
+          "transactionId": "TXN987655",
+          "bankName": "XYZ Bank",
+          "dateTime": "2024-03-11T14:20:00",
+          "amount": -5000
+        }
+      ]
+    },
+    {
+      "panId": "LMNOP5678Q",
+      "accountDetails": {
+        "bankName": "DEF Bank",
+        "accountNumber": "2468013579",
+        "accountType": "Savings"
+      },
+      "transactions": [
+        {
+          "transactionId": "TXN135791",
+          "bankName": "DEF Bank",
+          "dateTime": "2024-03-12T09:00:00",
+          "amount": 8000
+        },
+        {
+          "transactionId": "TXN246802",
+          "bankName": "DEF Bank",
+          "dateTime": "2024-03-13T15:30:00",
+          "amount": -3000
+        }
+      ]
+    },
+    {
+      "panId": "RSTUV5678W",
+      "accountDetails": {
+        "bankName": "GHI Bank",
+        "accountNumber": "1357924680",
+        "accountType": "Savings"
+      },
+      "transactions": [
+        {
+          "transactionId": "TXN246803",
+          "bankName": "GHI Bank",
+          "dateTime": "2024-03-14T11:20:00",
+          "amount": 6000
+        },
+        {
+          "transactionId": "TXN246804",
+          "bankName": "GHI Bank",
+          "dateTime": "2024-03-15T10:00:00",
+          "amount": -4000
+        }
+      ]
+    },
+    {
+      "panId": "WXYZA5678B",
+      "accountDetails": {
+        "bankName": "JKL Bank",
+        "accountNumber": "8642097531",
+        "accountType": "Checking"
+      },
+      "transactions": [
+        {
+          "transactionId": "TXN135792",
+          "bankName": "JKL Bank",
+          "dateTime": "2024-03-16T14:45:00",
+          "amount": 7000
+        },
+        {
+          "transactionId": "TXN246805",
+          "bankName": "JKL Bank",
+          "dateTime": "2024-03-17T12:00:00",
+          "amount": -2000
+        }
+      ]
+    },
+    {
+      "panId": "CDEFG6789H",
+      "accountDetails": {
+        "bankName": "MNO Bank",
+        "accountNumber": "1230975468",
+        "accountType": "Savings"
+      },
+      "transactions": [
+        {
+          "transactionId": "TXN246806",
+          "bankName": "MNO Bank",
+          "dateTime": "2024-03-18T09:30:00",
+          "amount": 9000
+        },
+        {
+          "transactionId": "TXN246807",
+          "bankName": "MNO Bank",
+          "dateTime": "2024-03-19T13:20:00",
+          "amount": -5000
+        }
+      ]
+    },
+    {
+      "panId": "IJKLM7890N",
+      "accountDetails": {
+        "bankName": "PQR Bank",
+        "accountNumber": "9876543091",
+        "accountType": "Checking"
+      },
+      "transactions": [
+        {
+          "transactionId": "TXN246808",
+          "bankName": "PQR Bank",
+          "dateTime": "2024-03-20T11:40:00",
+          "amount": 12000
+        },
+        {
+          "transactionId": "TXN246809",
+          "bankName": "PQR Bank",
+          "dateTime": "2024-03-21T16:10:00",
+          "amount": -8000
+        }
+      ]
+    },
+    {
+      "panId": "OPQRS7890T",
+      "accountDetails": {
+        "bankName": "STU Bank",
+        "accountNumber": "4567890123",
+        "accountType": "Savings"
+      },
+      "transactions": [
+        {
+          "transactionId": "TXN246810",
+          "bankName": "STU Bank",
+          "dateTime": "2024-03-22T10:00:00",
+          "amount": 15000
+        },
+        {
+          "transactionId": "TXN246811",
+          "bankName": "STU Bank",
+          "dateTime": "2024-03-23T14:30:00",
+          "amount": -7000
+        }
+      ]
+    },
+    {
+      "panId": "VWXYZ8901U",
+      "accountDetails": {
+        "bankName": "VWX Bank",
+        "accountNumber": "3456789012",
+        "accountType": "Checking"
+      },
+      "transactions": [
+        {
+          "transactionId": "TXN246812",
+          "bankName": "VWX Bank",
+          "dateTime": "2024-03-24T12:15:00",
+          "amount": 18000
+        },
+        {
+          "transactionId": "TXN246813",
+          "bankName": "VWX Bank",
+          "dateTime": "2024-03-25T11:00:00",
+          "amount": -10000
+        }
+      ]
+    },
+    {
+      "panId": "01234A890B",
+      "accountDetails": {
+        "bankName": "YZA Bank",
+        "accountNumber": "2345678901",
+        "accountType": "Savings"
+      },
+      "transactions": [
+        {
+          "transactionId": "TXN246814",
+          "bankName": "YZA Bank",
+          "dateTime": "2024-03-26T09:45:00",
+          "amount": 20000
+        },
+        {
+          "transactionId": "TXN246815",
+          "bankName": "YZA Bank",
+          "dateTime": "2024-03-27T14:50:00",
+          "amount": -12000
+        }
+      ]
+    }
+  ]
+  
+}

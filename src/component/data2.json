@@ -1,0 +1,262 @@
+{
+  "items": [
+    {
+      "panId": "ABCDE1234F",
+      "accounts": [
+        {
+          "accountId": "ACC123",
+          "accountDetails": {
+            "bankName": "ABC Bank",
+            "accountNumber": "1234567890",
+            "accountType": "Savings"
+          },
+          "currentBalance": 3000,
+          "transactions": [
+            {
+              "transactionId": "TXN123456",
+              "bankName": "ABC Bank",
+              "dateTime": "2024-03-09T10:30:00",
+              "amount": 5000,
+              "destinationAccount": "2342342342",
+              "destinationAccountBankName": "alpha bank"
+            },
+            {
+              "transactionId": "TXN123457",
+              "bankName": "ABC Bank",
+              "dateTime": "2024-03-10T11:45:00",
+              "amount": -2000,
+              "destinationAccount": "23423sdf2342",
+              "destinationAccountBankName": "zxc bank"
+            }
+          ]
+        },
+        {
+          "accountId": "ACC456",
+          "accountDetails": {
+            "bankName": "XYZ Bank",
+            "accountNumber": "9876543210",
+            "accountType": "Current"
+          },
+          "currentBalance": 5000,
+          "transactions": [
+            {
+              "transactionId": "TXN987654",
+              "bankName": "XYZ Bank",
+              "dateTime": "2024-03-10T12:15:00",
+              "amount": 10000,
+              "destinationAccount": "2342324342",
+              "destinationAccountBankName": "ert bank"
+            },
+            {
+              "transactionId": "TXN987655",
+              "bankName": "XYZ Bank",
+              "dateTime": "2024-03-11T14:20:00",
+              "amount": -5000,
+              "destinationAccount": "4342462342",
+              "destinationAccountBankName": "dfg bank"
+            }
+          ]
+        },
+        {
+          "accountId": "ACC789",
+          "accountDetails": {
+            "bankName": "DEF Bank",
+            "accountNumber": "2468013579",
+            "accountType": "Savings"
+          },
+          "currentBalance": 5000,
+          "transactions": [
+            {
+              "transactionId": "TXN135791",
+              "bankName": "DEF Bank",
+              "dateTime": "2024-03-12T09:00:00",
+              "amount": 8000,
+              "destinationAccount": "3254342342",
+              "destinationAccountBankName": "rty bank"
+            },
+            {
+              "transactionId": "TXN246802",
+              "bankName": "DEF Bank",
+              "dateTime": "2024-03-13T15:30:00",
+              "amount": -3000,
+              "destinationAccount": "56785342342",
+              "destinationAccountBankName": "yui bank"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "panId": "ABCDE1234F",
+      "accounts": [
+        {
+          "accountId": "ACC123",
+          "accountDetails": {
+            "bankName": "ABC Bank",
+            "accountNumber": "1234567890",
+            "accountType": "Savings"
+          },
+          "currentBalance": 3000,
+          "transactions": [
+            {
+              "transactionId": "TXN123456",
+              "bankName": "ABC Bank",
+              "dateTime": "2024-03-09T10:30:00",
+              "amount": 5000,
+              "destinationAccount": "2342342342",
+              "destinationAccountBankName": "alpha bank"
+            },
+            {
+              "transactionId": "TXN123457",
+              "bankName": "ABC Bank",
+              "dateTime": "2024-03-10T11:45:00",
+              "amount": -2000,
+              "destinationAccount": "23423sdf2342",
+              "destinationAccountBankName": "zxc bank"
+            }
+          ]
+        },
+        {
+          "accountId": "ACC456",
+          "accountDetails": {
+            "bankName": "XYZ Bank",
+            "accountNumber": "9876543210",
+            "accountType": "Current"
+          },
+          "currentBalance": 5000,
+          "transactions": [
+            {
+              "transactionId": "TXN987654",
+              "bankName": "XYZ Bank",
+              "dateTime": "2024-03-10T12:15:00",
+              "amount": 10000,
+              "destinationAccount": "2342324342",
+              "destinationAccountBankName": "ert bank"
+            },
+            {
+              "transactionId": "TXN987655",
+              "bankName": "XYZ Bank",
+              "dateTime": "2024-03-11T14:20:00",
+              "amount": -5000,
+              "destinationAccount": "4342462342",
+              "destinationAccountBankName": "dfg bank"
+            }
+          ]
+        },
+        {
+          "accountId": "ACC789",
+          "accountDetails": {
+            "bankName": "DEF Bank",
+            "accountNumber": "2468013579",
+            "accountType": "Savings"
+          },
+          "currentBalance": 5000,
+          "transactions": [
+            {
+              "transactionId": "TXN135791",
+              "bankName": "DEF Bank",
+              "dateTime": "2024-03-12T09:00:00",
+              "amount": 8000,
+              "destinationAccount": "3254342342",
+              "destinationAccountBankName": "rty bank"
+            },
+            {
+              "transactionId": "TXN246802",
+              "bankName": "DEF Bank",
+              "dateTime": "2024-03-13T15:30:00",
+              "amount": -3000,
+              "destinationAccount": "56785342342",
+              "destinationAccountBankName": "yui bank"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "panId": "ABCDE1234F",
+      "accounts": [
+        {
+          "accountId": "ACC123",
+          "accountDetails": {
+            "bankName": "ABC Bank",
+            "accountNumber": "1234567890",
+            "accountType": "Savings"
+          },
+          "currentBalance": 3000,
+          "transactions": [
+            {
+              "transactionId": "TXN123456",
+              "bankName": "ABC Bank",
+              "dateTime": "2024-03-09T10:30:00",
+              "amount": 5000,
+              "destinationAccount": "2342342342",
+              "destinationAccountBankName": "alpha bank"
+            },
+            {
+              "transactionId": "TXN123457",
+              "bankName": "ABC Bank",
+              "dateTime": "2024-03-10T11:45:00",
+              "amount": -2000,
+              "destinationAccount": "23423sdf2342",
+              "destinationAccountBankName": "zxc bank"
+            }
+          ]
+        },
+        {
+          "accountId": "ACC456",
+          "accountDetails": {
+            "bankName": "XYZ Bank",
+            "accountNumber": "9876543210",
+            "accountType": "Current"
+          },
+          "currentBalance": 5000,
+          "transactions": [
+            {
+              "transactionId": "TXN987654",
+              "bankName": "XYZ Bank",
+              "dateTime": "2024-03-10T12:15:00",
+              "amount": 10000,
+              "destinationAccount": "2342324342",
+              "destinationAccountBankName": "ert bank"
+            },
+            {
+              "transactionId": "TXN987655",
+              "bankName": "XYZ Bank",
+              "dateTime": "2024-03-11T14:20:00",
+              "amount": -5000,
+              "destinationAccount": "4342462342",
+              "destinationAccountBankName": "dfg bank"
+            }
+          ]
+        },
+        {
+          "accountId": "ACC789",
+          "accountDetails": {
+            "bankName": "DEF Bank",
+            "accountNumber": "2468013579",
+            "accountType": "Savings"
+          },
+          "currentBalance": 5000,
+          "transactions": [
+            {
+              "transactionId": "TXN135791",
+              "bankName": "DEF Bank",
+              "dateTime": "2024-03-12T09:00:00",
+              "amount": 8000,
+              "destinationAccount": "3254342342",
+              "destinationAccountBankName": "rty bank"
+            },
+            {
+              "transactionId": "TXN246802",
+              "bankName": "DEF Bank",
+              "dateTime": "2024-03-13T15:30:00",
+              "amount": -3000,
+              "destinationAccount": "56785342342",
+              "destinationAccountBankName": "yui bank"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
