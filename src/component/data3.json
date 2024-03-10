@@ -18,7 +18,7 @@
                 "dateTime": "2024-03-23T10:20:00",
                 "amount": 5000,
                 "destinationAccount": "2342342342",
-                "destinationAccountBankName": "alpha bank"
+                "destinationAccountBankName": "SBI bank"
               },
               {
                 "transactionId": "TXN345678",
@@ -26,7 +26,7 @@
                 "dateTime": "2024-04-11T11:46:00",
                 "amount": -2000,
                 "destinationAccount": "139876df1341",
-                "destinationAccountBankName": "SIGMA bank"
+                "destinationAccountBankName": "ICICI bank"
               }
             ]
           },
@@ -45,7 +45,7 @@
                 "dateTime": "2025-03-20T12:15:00",
                 "amount": 10000,
                 "destinationAccount": "2376598742",
-                "destinationAccountBankName": "LOL bank"
+                "destinationAccountBankName": ",lkLOL bank"
               },
               {
                 "transactionId": "TXN987213",
@@ -53,7 +53,7 @@
                 "dateTime": "2026-03-21T14:40:00",
                 "amount": -5000,
                 "destinationAccount": "4342462342",
-                "destinationAccountBankName": "BKLOL bank"
+                "destinationAccountBankName": "BasOL bank"
               }
             ]
           },

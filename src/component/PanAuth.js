@@ -105,6 +105,10 @@ const PanAuth = ({ data }) => {
                       .destinationAccountBankName
                   }
                 </p>
+                <a href="">
+                <button className="px-6 py-3 bg-blue-700 rounded-full text-white mt-4">View in Map</button>
+                </a>
+                <iframe className="rounded-3xl mt-10 shadow-lg" title="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d54540.32626205005!2d75.47468926768595!3d31.310090683161658!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391a5af12d018ee1%3A0xac7ffb7e5e14285f!2sState%20Bank%20of%20India!5e0!3m2!1sen!2sin!4v1709996945250!5m2!1sen!2sin" width="600" height="450"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
               </div>
               <div className="mt-4 ">
                 <h2 className="text-2xl font-bold mb-5 bg-green-700 w-fit py-2 px-6 rounded-3xl text-white">
@@ -134,6 +138,10 @@ const PanAuth = ({ data }) => {
                       .destinationAccountBankName
                   }
                 </p>
+                <a href="">
+                <button className="px-6 py-3 bg-blue-700 rounded-full text-white mt-4">View in Map</button>
+                </a>
+                <iframe className="rounded-3xl mt-10 shadow-lg" title="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d112086.0457785567!2d77.10093809166851!3d28.609107401160625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce391c0000009%3A0x76f61cb71fe9f37e!2sICICI%20Bank%20Delhi%20Janpath!5e0!3m2!1sen!2sin!4v1709997796749!5m2!1sen!2sin" width="600" height="450"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
               </div>
             </div>
           </div>
@@ -184,6 +192,10 @@ const PanAuth = ({ data }) => {
                     result.accounts[1].transactions[0]
                       .destinationAccountBankName
                   }
+                  <a href="">
+                <button className="px-6 py-3 bg-blue-700 rounded-full text-white mt-4">View in Map</button>
+                </a>
+                <iframe className="rounded-3xl mt-10 shadow-lg" title="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d54540.32626205005!2d75.47468926768595!3d31.310090683161658!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391a5af12d018ee1%3A0xac7ffb7e5e14285f!2sState%20Bank%20of%20India!5e0!3m2!1sen!2sin!4v1709996945250!5m2!1sen!2sin" width="600" height="450"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </p>
               </div>
               <div className="mt-4 ">
@@ -213,6 +225,10 @@ const PanAuth = ({ data }) => {
                     result.accounts[1].transactions[1]
                       .destinationAccountBankName
                   }
+                  <a href="">
+                <button className="px-6 py-3 bg-blue-700 rounded-full text-white mt-4">View in Map</button>
+                </a>
+                <iframe className="rounded-3xl mt-10 shadow-lg" title="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d54540.32626205005!2d75.47468926768595!3d31.310090683161658!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391a5af12d018ee1%3A0xac7ffb7e5e14285f!2sState%20Bank%20of%20India!5e0!3m2!1sen!2sin!4v1709996945250!5m2!1sen!2sin" width="600" height="450"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </p>
               </div>
             </div>
